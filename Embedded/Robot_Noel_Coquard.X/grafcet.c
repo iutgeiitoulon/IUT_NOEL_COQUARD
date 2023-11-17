@@ -27,8 +27,8 @@ void OperatingSystemLoop(void) {
             break;
 
         case STATE_AVANCE:
-            PWMSetSpeedConsigne(25, MOTEUR_DROIT);
-            PWMSetSpeedConsigne(25, MOTEUR_GAUCHE);
+            PWMSetSpeedConsigne(23, MOTEUR_DROIT);
+            PWMSetSpeedConsigne(23, MOTEUR_GAUCHE);
             stateRobot = STATE_AVANCE_EN_COURS;
             break;
         case STATE_AVANCE_EN_COURS:
@@ -188,11 +188,6 @@ void SetNextRobotStateInAutomaticMode() {
     else if (positionObstacle == OBSTACLE_A_GAUCHE)
         nextStateRobot = STATE_TOURNE_DROITE;
     else if (positionObstacle == OBSTACLE_EN_FACE) {
-        while (compteur_marche_arriere < 600) {
-            nextStateRobot = STATE_MARCHE_ARRIERE;
-            compteur_marche_arriere = compteur_marche_arriere + 1;
-        }
-        compteur_marche_arriere = 0;
         nextStateRobot = STATE_TOURNE_SUR_PLACE_GAUCHE;
     } else if (positionObstacle == OBSTACLE_EXTREME_GAUCHE)
         nextStateRobot = STATE_TOURNE_VITE_DROITE;

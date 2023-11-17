@@ -1,0 +1,1035 @@
+4002 1700228086766 XXXX 1700228086766, Thread 4002: XXXX 1700228086766, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228086864 XXXX 1700228086864, Thread 4002: XXXX 1700228086864, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228086867 XXXX 1700228086867, Thread 4002: XXXX 1700228086867, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228086969 XXXX 1700228086969, Thread 4002: XXXX 1700228086969, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228086971 XXXX 1700228086971, Thread 4002: XXXX 1700228086971, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228087070 XXXX 1700228087070, Thread 4002: XXXX 1700228087070, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228087072 XXXX 1700228087072, Thread 4002: XXXX 1700228087072, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228087171 XXXX 1700228087171, Thread 4002: XXXX 1700228087171, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228087173 XXXX 1700228087173, Thread 4002: XXXX 1700228087173, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228087274 XXXX 1700228087274, Thread 4002: XXXX 1700228087274, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228087276 XXXX 1700228087276, Thread 4002: XXXX 1700228087276, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228087374 XXXX 1700228087374, Thread 4002: XXXX 1700228087374, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228087376 XXXX 1700228087376, Thread 4002: XXXX 1700228087376, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228087477 XXXX 1700228087477, Thread 4002: XXXX 1700228087477, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228087479 XXXX 1700228087479, Thread 4002: XXXX 1700228087479, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228087577 XXXX 1700228087577, Thread 4002: XXXX 1700228087577, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228087578 XXXX 1700228087578, Thread 4002: XXXX 1700228087578, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228087680 XXXX 1700228087680, Thread 4002: XXXX 1700228087680, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228087682 XXXX 1700228087682, Thread 4002: XXXX 1700228087682, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228087781 XXXX 1700228087781, Thread 4002: XXXX 1700228087781, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228087783 XXXX 1700228087783, Thread 4002: XXXX 1700228087783, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228087882 XXXX 1700228087882, Thread 4002: XXXX 1700228087882, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228087884 XXXX 1700228087884, Thread 4002: XXXX 1700228087884, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228087982 XXXX 1700228087982, Thread 4002: XXXX 1700228087982, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228087986 XXXX 1700228087986, Thread 4002: XXXX 1700228087986, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228088082 XXXX 1700228088082, Thread 4002: XXXX 1700228088082, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228088086 XXXX 1700228088086, Thread 4002: XXXX 1700228088086, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228088182 XXXX 1700228088182, Thread 4002: XXXX 1700228088182, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228088184 XXXX 1700228088184, Thread 4002: XXXX 1700228088184, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228088283 XXXX 1700228088283, Thread 4002: XXXX 1700228088283, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228088286 XXXX 1700228088286, Thread 4002: XXXX 1700228088286, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228088383 XXXX 1700228088383, Thread 4002: XXXX 1700228088383, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228088386 XXXX 1700228088386, Thread 4002: XXXX 1700228088386, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228088484 XXXX 1700228088484, Thread 4002: XXXX 1700228088484, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228088486 XXXX 1700228088486, Thread 4002: XXXX 1700228088486, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228088587 XXXX 1700228088587, Thread 4002: XXXX 1700228088587, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228088589 XXXX 1700228088589, Thread 4002: XXXX 1700228088589, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228088688 XXXX 1700228088688, Thread 4002: XXXX 1700228088688, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228088690 XXXX 1700228088690, Thread 4002: XXXX 1700228088690, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228088788 XXXX 1700228088788, Thread 4002: XXXX 1700228088788, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228088790 XXXX 1700228088790, Thread 4002: XXXX 1700228088790, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228088888 XXXX 1700228088888, Thread 4002: XXXX 1700228088888, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228088890 XXXX 1700228088890, Thread 4002: XXXX 1700228088890, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228088988 XXXX 1700228088988, Thread 4002: XXXX 1700228088988, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228088990 XXXX 1700228088990, Thread 4002: XXXX 1700228088990, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228089088 XXXX 1700228089088, Thread 4002: XXXX 1700228089088, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228089090 XXXX 1700228089090, Thread 4002: XXXX 1700228089090, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228089189 XXXX 1700228089189, Thread 4002: XXXX 1700228089189, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228089191 XXXX 1700228089191, Thread 4002: XXXX 1700228089191, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228089290 XXXX 1700228089290, Thread 4002: XXXX 1700228089290, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228089291 XXXX 1700228089291, Thread 4002: XXXX 1700228089291, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228089391 XXXX 1700228089391, Thread 4002: XXXX 1700228089391, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228089393 XXXX 1700228089393, Thread 4002: XXXX 1700228089393, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228089491 XXXX 1700228089491, Thread 4002: XXXX 1700228089491, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228089493 XXXX 1700228089493, Thread 4002: XXXX 1700228089493, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228089592 XXXX 1700228089592, Thread 4002: XXXX 1700228089592, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228089594 XXXX 1700228089594, Thread 4002: XXXX 1700228089594, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228089693 XXXX 1700228089692, Thread 4002: XXXX 1700228089692, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228089695 XXXX 1700228089695, Thread 4002: XXXX 1700228089695, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228089793 XXXX 1700228089793, Thread 4002: XXXX 1700228089793, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228089795 XXXX 1700228089795, Thread 4002: XXXX 1700228089795, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228089893 XXXX 1700228089893, Thread 4002: XXXX 1700228089893, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228089895 XXXX 1700228089895, Thread 4002: XXXX 1700228089895, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228089993 XXXX 1700228089993, Thread 4002: XXXX 1700228089993, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228089995 XXXX 1700228089995, Thread 4002: XXXX 1700228089995, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228090093 XXXX 1700228090093, Thread 4002: XXXX 1700228090093, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228090096 XXXX 1700228090096, Thread 4002: XXXX 1700228090096, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228090193 XXXX 1700228090193, Thread 4002: XXXX 1700228090193, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228090195 XXXX 1700228090195, Thread 4002: XXXX 1700228090195, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228090294 XXXX 1700228090294, Thread 4002: XXXX 1700228090294, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228090296 XXXX 1700228090296, Thread 4002: XXXX 1700228090296, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228090394 XXXX 1700228090394, Thread 4002: XXXX 1700228090394, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228090396 XXXX 1700228090396, Thread 4002: XXXX 1700228090396, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228090494 XXXX 1700228090494, Thread 4002: XXXX 1700228090494, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228090496 XXXX 1700228090496, Thread 4002: XXXX 1700228090496, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228090594 XXXX 1700228090594, Thread 4002: XXXX 1700228090594, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228090596 XXXX 1700228090596, Thread 4002: XXXX 1700228090596, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228090694 XXXX 1700228090694, Thread 4002: XXXX 1700228090694, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228090696 XXXX 1700228090696, Thread 4002: XXXX 1700228090696, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228090794 XXXX 1700228090794, Thread 4002: XXXX 1700228090794, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228090797 XXXX 1700228090797, Thread 4002: XXXX 1700228090797, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228090894 XXXX 1700228090894, Thread 4002: XXXX 1700228090894, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228090897 XXXX 1700228090897, Thread 4002: XXXX 1700228090897, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228090994 XXXX 1700228090994, Thread 4002: XXXX 1700228090994, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228090996 XXXX 1700228090996, Thread 4002: XXXX 1700228090996, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228091094 XXXX 1700228091094, Thread 4002: XXXX 1700228091094, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228091096 XXXX 1700228091096, Thread 4002: XXXX 1700228091096, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228091194 XXXX 1700228091194, Thread 4002: XXXX 1700228091194, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228091197 XXXX 1700228091197, Thread 4002: XXXX 1700228091197, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228091295 XXXX 1700228091295, Thread 4002: XXXX 1700228091295, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228091298 XXXX 1700228091298, Thread 4002: XXXX 1700228091298, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228091395 XXXX 1700228091395, Thread 4002: XXXX 1700228091395, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228091397 XXXX 1700228091397, Thread 4002: XXXX 1700228091397, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228091502 XXXX 1700228091502, Thread 4002: XXXX 1700228091502, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228091505 XXXX 1700228091505, Thread 4002: XXXX 1700228091505, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228091607 XXXX 1700228091607, Thread 4002: XXXX 1700228091607, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228091609 XXXX 1700228091609, Thread 4002: XXXX 1700228091609, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228091709 XXXX 1700228091709, Thread 4002: XXXX 1700228091709, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228091711 XXXX 1700228091711, Thread 4002: XXXX 1700228091711, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228091810 XXXX 1700228091810, Thread 4002: XXXX 1700228091810, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228091812 XXXX 1700228091812, Thread 4002: XXXX 1700228091812, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228091910 XXXX 1700228091910, Thread 4002: XXXX 1700228091910, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228091913 XXXX 1700228091913, Thread 4002: XXXX 1700228091913, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228092010 XXXX 1700228092010, Thread 4002: XXXX 1700228092010, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228092012 XXXX 1700228092012, Thread 4002: XXXX 1700228092012, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228092111 XXXX 1700228092111, Thread 4002: XXXX 1700228092111, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228092113 XXXX 1700228092113, Thread 4002: XXXX 1700228092113, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228092212 XXXX 1700228092212, Thread 4002: XXXX 1700228092212, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228092214 XXXX 1700228092214, Thread 4002: XXXX 1700228092214, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228092312 XXXX 1700228092312, Thread 4002: XXXX 1700228092312, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228092314 XXXX 1700228092314, Thread 4002: XXXX 1700228092314, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228092413 XXXX 1700228092413, Thread 4002: XXXX 1700228092413, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228092416 XXXX 1700228092416, Thread 4002: XXXX 1700228092416, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228092513 XXXX 1700228092513, Thread 4002: XXXX 1700228092513, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228092515 XXXX 1700228092515, Thread 4002: XXXX 1700228092515, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228092613 XXXX 1700228092613, Thread 4002: XXXX 1700228092613, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228092615 XXXX 1700228092615, Thread 4002: XXXX 1700228092615, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228092716 XXXX 1700228092716, Thread 4002: XXXX 1700228092716, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228092719 XXXX 1700228092719, Thread 4002: XXXX 1700228092719, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228092816 XXXX 1700228092816, Thread 4002: XXXX 1700228092816, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228092821 XXXX 1700228092821, Thread 4002: XXXX 1700228092821, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228092917 XXXX 1700228092917, Thread 4002: XXXX 1700228092917, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228092920 XXXX 1700228092920, Thread 4002: XXXX 1700228092920, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228093020 XXXX 1700228093020, Thread 4002: XXXX 1700228093020, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228093021 XXXX 1700228093021, Thread 4002: XXXX 1700228093021, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228093124 XXXX 1700228093124, Thread 4002: XXXX 1700228093124, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228093127 XXXX 1700228093127, Thread 4002: XXXX 1700228093127, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228093225 XXXX 1700228093225, Thread 4002: XXXX 1700228093225, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228093227 XXXX 1700228093227, Thread 4002: XXXX 1700228093227, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228093326 XXXX 1700228093326, Thread 4002: XXXX 1700228093326, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228093329 XXXX 1700228093329, Thread 4002: XXXX 1700228093329, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228093426 XXXX 1700228093426, Thread 4002: XXXX 1700228093426, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228093429 XXXX 1700228093429, Thread 4002: XXXX 1700228093429, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228093526 XXXX 1700228093526, Thread 4002: XXXX 1700228093526, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228093528 XXXX 1700228093528, Thread 4002: XXXX 1700228093528, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228093626 XXXX 1700228093626, Thread 4002: XXXX 1700228093626, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228093628 XXXX 1700228093628, Thread 4002: XXXX 1700228093628, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228093726 XXXX 1700228093726, Thread 4002: XXXX 1700228093726, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228093728 XXXX 1700228093728, Thread 4002: XXXX 1700228093728, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228093826 XXXX 1700228093826, Thread 4002: XXXX 1700228093826, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228093828 XXXX 1700228093828, Thread 4002: XXXX 1700228093828, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228093926 XXXX 1700228093926, Thread 4002: XXXX 1700228093926, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228093928 XXXX 1700228093928, Thread 4002: XXXX 1700228093928, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228094027 XXXX 1700228094027, Thread 4002: XXXX 1700228094027, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228094029 XXXX 1700228094029, Thread 4002: XXXX 1700228094029, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228094127 XXXX 1700228094127, Thread 4002: XXXX 1700228094127, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228094130 XXXX 1700228094130, Thread 4002: XXXX 1700228094130, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228094230 XXXX 1700228094230, Thread 4002: XXXX 1700228094230, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228094232 XXXX 1700228094232, Thread 4002: XXXX 1700228094232, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228094330 XXXX 1700228094330, Thread 4002: XXXX 1700228094330, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228094332 XXXX 1700228094332, Thread 4002: XXXX 1700228094332, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228094432 XXXX 1700228094432, Thread 4002: XXXX 1700228094432, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228094434 XXXX 1700228094434, Thread 4002: XXXX 1700228094434, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228094533 XXXX 1700228094533, Thread 4002: XXXX 1700228094533, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228094536 XXXX 1700228094536, Thread 4002: XXXX 1700228094536, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228094634 XXXX 1700228094634, Thread 4002: XXXX 1700228094634, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228094636 XXXX 1700228094636, Thread 4002: XXXX 1700228094636, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228094734 XXXX 1700228094734, Thread 4002: XXXX 1700228094734, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228094738 XXXX 1700228094738, Thread 4002: XXXX 1700228094738, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228094836 XXXX 1700228094836, Thread 4002: XXXX 1700228094836, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228094838 XXXX 1700228094838, Thread 4002: XXXX 1700228094838, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228094936 XXXX 1700228094936, Thread 4002: XXXX 1700228094936, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228094937 XXXX 1700228094937, Thread 4002: XXXX 1700228094937, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228095038 XXXX 1700228095038, Thread 4002: XXXX 1700228095038, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228095040 XXXX 1700228095040, Thread 4002: XXXX 1700228095040, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228095139 XXXX 1700228095139, Thread 4002: XXXX 1700228095139, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228095141 XXXX 1700228095141, Thread 4002: XXXX 1700228095141, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228095239 XXXX 1700228095239, Thread 4002: XXXX 1700228095239, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228095241 XXXX 1700228095241, Thread 4002: XXXX 1700228095241, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228095339 XXXX 1700228095339, Thread 4002: XXXX 1700228095339, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228095342 XXXX 1700228095342, Thread 4002: XXXX 1700228095342, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228095439 XXXX 1700228095439, Thread 4002: XXXX 1700228095439, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228095442 XXXX 1700228095442, Thread 4002: XXXX 1700228095442, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228095541 XXXX 1700228095541, Thread 4002: XXXX 1700228095541, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228095543 XXXX 1700228095543, Thread 4002: XXXX 1700228095543, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228095641 XXXX 1700228095641, Thread 4002: XXXX 1700228095641, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228095643 XXXX 1700228095643, Thread 4002: XXXX 1700228095643, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228095743 XXXX 1700228095743, Thread 4002: XXXX 1700228095743, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228095745 XXXX 1700228095745, Thread 4002: XXXX 1700228095745, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228095846 XXXX 1700228095846, Thread 4002: XXXX 1700228095846, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228095847 XXXX 1700228095847, Thread 4002: XXXX 1700228095847, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228095946 XXXX 1700228095946, Thread 4002: XXXX 1700228095946, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228095948 XXXX 1700228095948, Thread 4002: XXXX 1700228095948, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228096046 XXXX 1700228096046, Thread 4002: XXXX 1700228096046, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228096049 XXXX 1700228096049, Thread 4002: XXXX 1700228096049, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228096146 XXXX 1700228096146, Thread 4002: XXXX 1700228096146, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228096148 XXXX 1700228096148, Thread 4002: XXXX 1700228096148, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228096246 XXXX 1700228096246, Thread 4002: XXXX 1700228096246, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228096249 XXXX 1700228096249, Thread 4002: XXXX 1700228096249, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228096349 XXXX 1700228096349, Thread 4002: XXXX 1700228096349, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228096352 XXXX 1700228096352, Thread 4002: XXXX 1700228096352, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228096450 XXXX 1700228096450, Thread 4002: XXXX 1700228096450, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228096452 XXXX 1700228096452, Thread 4002: XXXX 1700228096452, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228096550 XXXX 1700228096550, Thread 4002: XXXX 1700228096550, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228096552 XXXX 1700228096552, Thread 4002: XXXX 1700228096552, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228096654 XXXX 1700228096654, Thread 4002: XXXX 1700228096654, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228096656 XXXX 1700228096656, Thread 4002: XXXX 1700228096656, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228096754 XXXX 1700228096754, Thread 4002: XXXX 1700228096754, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228096756 XXXX 1700228096756, Thread 4002: XXXX 1700228096756, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228096856 XXXX 1700228096856, Thread 4002: XXXX 1700228096856, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228096858 XXXX 1700228096858, Thread 4002: XXXX 1700228096858, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228096957 XXXX 1700228096957, Thread 4002: XXXX 1700228096957, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228096959 XXXX 1700228096959, Thread 4002: XXXX 1700228096959, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228097057 XXXX 1700228097057, Thread 4002: XXXX 1700228097057, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228097059 XXXX 1700228097059, Thread 4002: XXXX 1700228097059, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228097157 XXXX 1700228097157, Thread 4002: XXXX 1700228097157, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228097160 XXXX 1700228097160, Thread 4002: XXXX 1700228097160, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228097259 XXXX 1700228097259, Thread 4002: XXXX 1700228097259, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228097261 XXXX 1700228097261, Thread 4002: XXXX 1700228097261, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228097362 XXXX 1700228097362, Thread 4002: XXXX 1700228097362, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228097364 XXXX 1700228097364, Thread 4002: XXXX 1700228097364, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228097462 XXXX 1700228097462, Thread 4002: XXXX 1700228097462, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228097464 XXXX 1700228097464, Thread 4002: XXXX 1700228097464, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228097563 XXXX 1700228097563, Thread 4002: XXXX 1700228097563, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228097566 XXXX 1700228097566, Thread 4002: XXXX 1700228097566, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228097664 XXXX 1700228097664, Thread 4002: XXXX 1700228097664, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228097667 XXXX 1700228097667, Thread 4002: XXXX 1700228097667, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228097765 XXXX 1700228097765, Thread 4002: XXXX 1700228097765, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228097767 XXXX 1700228097767, Thread 4002: XXXX 1700228097767, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228097870 XXXX 1700228097870, Thread 4002: XXXX 1700228097870, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228097872 XXXX 1700228097872, Thread 4002: XXXX 1700228097872, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228097974 XXXX 1700228097974, Thread 4002: XXXX 1700228097974, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228097975 XXXX 1700228097975, Thread 4002: XXXX 1700228097975, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228098076 XXXX 1700228098076, Thread 4002: XXXX 1700228098076, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228098078 XXXX 1700228098078, Thread 4002: XXXX 1700228098078, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228098177 XXXX 1700228098177, Thread 4002: XXXX 1700228098177, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228098179 XXXX 1700228098179, Thread 4002: XXXX 1700228098179, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228098277 XXXX 1700228098277, Thread 4002: XXXX 1700228098277, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228098279 XXXX 1700228098279, Thread 4002: XXXX 1700228098279, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228098378 XXXX 1700228098378, Thread 4002: XXXX 1700228098378, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228098381 XXXX 1700228098381, Thread 4002: XXXX 1700228098381, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228098478 XXXX 1700228098478, Thread 4002: XXXX 1700228098478, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228098480 XXXX 1700228098480, Thread 4002: XXXX 1700228098480, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228098578 XXXX 1700228098578, Thread 4002: XXXX 1700228098578, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228098580 XXXX 1700228098580, Thread 4002: XXXX 1700228098580, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228098684 XXXX 1700228098684, Thread 4002: XXXX 1700228098684, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228098686 XXXX 1700228098686, Thread 4002: XXXX 1700228098686, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228098786 XXXX 1700228098786, Thread 4002: XXXX 1700228098786, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228098788 XXXX 1700228098788, Thread 4002: XXXX 1700228098788, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228098888 XXXX 1700228098888, Thread 4002: XXXX 1700228098888, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228098891 XXXX 1700228098891, Thread 4002: XXXX 1700228098891, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228098989 XXXX 1700228098989, Thread 4002: XXXX 1700228098989, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228098991 XXXX 1700228098991, Thread 4002: XXXX 1700228098991, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228099094 XXXX 1700228099094, Thread 4002: XXXX 1700228099094, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228099096 XXXX 1700228099096, Thread 4002: XXXX 1700228099096, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228099195 XXXX 1700228099195, Thread 4002: XXXX 1700228099195, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228099198 XXXX 1700228099198, Thread 4002: XXXX 1700228099198, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228099296 XXXX 1700228099296, Thread 4002: XXXX 1700228099296, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228099298 XXXX 1700228099298, Thread 4002: XXXX 1700228099298, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228099396 XXXX 1700228099396, Thread 4002: XXXX 1700228099396, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228099398 XXXX 1700228099398, Thread 4002: XXXX 1700228099398, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228099496 XXXX 1700228099496, Thread 4002: XXXX 1700228099496, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228099498 XXXX 1700228099498, Thread 4002: XXXX 1700228099498, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228099596 XXXX 1700228099596, Thread 4002: XXXX 1700228099596, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228099599 XXXX 1700228099599, Thread 4002: XXXX 1700228099599, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228099696 XXXX 1700228099696, Thread 4002: XXXX 1700228099696, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228099699 XXXX 1700228099699, Thread 4002: XXXX 1700228099699, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228099796 XXXX 1700228099796, Thread 4002: XXXX 1700228099796, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228099798 XXXX 1700228099798, Thread 4002: XXXX 1700228099798, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228099896 XXXX 1700228099896, Thread 4002: XXXX 1700228099896, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228099899 XXXX 1700228099899, Thread 4002: XXXX 1700228099899, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228099997 XXXX 1700228099997, Thread 4002: XXXX 1700228099997, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228099999 XXXX 1700228099999, Thread 4002: XXXX 1700228099999, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228100098 XXXX 1700228100098, Thread 4002: XXXX 1700228100098, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228100100 XXXX 1700228100100, Thread 4002: XXXX 1700228100100, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228100199 XXXX 1700228100199, Thread 4002: XXXX 1700228100199, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228100201 XXXX 1700228100201, Thread 4002: XXXX 1700228100201, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228100300 XXXX 1700228100300, Thread 4002: XXXX 1700228100300, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228100301 XXXX 1700228100301, Thread 4002: XXXX 1700228100301, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228100400 XXXX 1700228100400, Thread 4002: XXXX 1700228100400, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228100401 XXXX 1700228100401, Thread 4002: XXXX 1700228100401, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228100501 XXXX 1700228100501, Thread 4002: XXXX 1700228100501, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228100503 XXXX 1700228100503, Thread 4002: XXXX 1700228100503, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228100603 XXXX 1700228100603, Thread 4002: XXXX 1700228100603, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228100605 XXXX 1700228100605, Thread 4002: XXXX 1700228100605, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228100704 XXXX 1700228100704, Thread 4002: XXXX 1700228100704, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228100706 XXXX 1700228100706, Thread 4002: XXXX 1700228100706, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228100804 XXXX 1700228100804, Thread 4002: XXXX 1700228100804, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228100807 XXXX 1700228100807, Thread 4002: XXXX 1700228100807, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228100904 XXXX 1700228100904, Thread 4002: XXXX 1700228100904, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228100906 XXXX 1700228100906, Thread 4002: XXXX 1700228100906, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228101007 XXXX 1700228101007, Thread 4002: XXXX 1700228101006, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228101008 XXXX 1700228101008, Thread 4002: XXXX 1700228101008, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228101106 XXXX 1700228101106, Thread 4002: XXXX 1700228101106, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228101108 XXXX 1700228101108, Thread 4002: XXXX 1700228101108, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228101206 XXXX 1700228101206, Thread 4002: XXXX 1700228101206, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228101208 XXXX 1700228101208, Thread 4002: XXXX 1700228101208, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228101307 XXXX 1700228101307, Thread 4002: XXXX 1700228101307, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228101309 XXXX 1700228101309, Thread 4002: XXXX 1700228101309, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228101407 XXXX 1700228101407, Thread 4002: XXXX 1700228101407, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228101409 XXXX 1700228101409, Thread 4002: XXXX 1700228101409, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228101508 XXXX 1700228101508, Thread 4002: XXXX 1700228101508, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228101510 XXXX 1700228101510, Thread 4002: XXXX 1700228101510, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228101608 XXXX 1700228101608, Thread 4002: XXXX 1700228101608, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228101610 XXXX 1700228101610, Thread 4002: XXXX 1700228101610, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228101708 XXXX 1700228101708, Thread 4002: XXXX 1700228101708, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228101710 XXXX 1700228101710, Thread 4002: XXXX 1700228101710, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228101809 XXXX 1700228101809, Thread 4002: XXXX 1700228101809, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228101811 XXXX 1700228101811, Thread 4002: XXXX 1700228101811, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228101909 XXXX 1700228101909, Thread 4002: XXXX 1700228101909, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228101911 XXXX 1700228101911, Thread 4002: XXXX 1700228101911, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228102009 XXXX 1700228102009, Thread 4002: XXXX 1700228102009, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228102010 XXXX 1700228102010, Thread 4002: XXXX 1700228102010, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228102110 XXXX 1700228102110, Thread 4002: XXXX 1700228102110, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228102112 XXXX 1700228102112, Thread 4002: XXXX 1700228102112, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228102211 XXXX 1700228102211, Thread 4002: XXXX 1700228102211, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228102213 XXXX 1700228102213, Thread 4002: XXXX 1700228102213, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228102313 XXXX 1700228102313, Thread 4002: XXXX 1700228102313, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228102315 XXXX 1700228102315, Thread 4002: XXXX 1700228102315, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228102416 XXXX 1700228102416, Thread 4002: XXXX 1700228102416, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228102418 XXXX 1700228102418, Thread 4002: XXXX 1700228102418, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228102517 XXXX 1700228102517, Thread 4002: XXXX 1700228102517, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228102520 XXXX 1700228102520, Thread 4002: XXXX 1700228102520, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228102618 XXXX 1700228102618, Thread 4002: XXXX 1700228102618, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228102620 XXXX 1700228102620, Thread 4002: XXXX 1700228102620, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228102719 XXXX 1700228102719, Thread 4002: XXXX 1700228102719, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228102721 XXXX 1700228102721, Thread 4002: XXXX 1700228102721, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228102822 XXXX 1700228102822, Thread 4002: XXXX 1700228102822, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228102823 XXXX 1700228102823, Thread 4002: XXXX 1700228102823, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228102923 XXXX 1700228102923, Thread 4002: XXXX 1700228102923, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228102925 XXXX 1700228102925, Thread 4002: XXXX 1700228102925, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228103025 XXXX 1700228103025, Thread 4002: XXXX 1700228103025, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228103026 XXXX 1700228103026, Thread 4002: XXXX 1700228103026, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228103125 XXXX 1700228103125, Thread 4002: XXXX 1700228103125, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228103127 XXXX 1700228103127, Thread 4002: XXXX 1700228103127, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228103226 XXXX 1700228103226, Thread 4002: XXXX 1700228103226, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228103228 XXXX 1700228103228, Thread 4002: XXXX 1700228103228, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228103326 XXXX 1700228103326, Thread 4002: XXXX 1700228103326, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228103328 XXXX 1700228103328, Thread 4002: XXXX 1700228103328, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228103427 XXXX 1700228103427, Thread 4002: XXXX 1700228103427, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228103429 XXXX 1700228103429, Thread 4002: XXXX 1700228103429, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228103527 XXXX 1700228103527, Thread 4002: XXXX 1700228103527, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228103530 XXXX 1700228103530, Thread 4002: XXXX 1700228103530, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228103628 XXXX 1700228103628, Thread 4002: XXXX 1700228103628, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228103630 XXXX 1700228103630, Thread 4002: XXXX 1700228103630, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228103728 XXXX 1700228103728, Thread 4002: XXXX 1700228103728, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228103729 XXXX 1700228103729, Thread 4002: XXXX 1700228103729, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228103828 XXXX 1700228103828, Thread 4002: XXXX 1700228103828, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228103830 XXXX 1700228103830, Thread 4002: XXXX 1700228103830, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228103928 XXXX 1700228103928, Thread 4002: XXXX 1700228103928, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228103930 XXXX 1700228103930, Thread 4002: XXXX 1700228103930, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228104029 XXXX 1700228104029, Thread 4002: XXXX 1700228104029, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228104031 XXXX 1700228104031, Thread 4002: XXXX 1700228104031, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228104129 XXXX 1700228104129, Thread 4002: XXXX 1700228104129, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228104131 XXXX 1700228104131, Thread 4002: XXXX 1700228104131, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228104230 XXXX 1700228104230, Thread 4002: XXXX 1700228104230, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228104232 XXXX 1700228104232, Thread 4002: XXXX 1700228104232, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228104332 XXXX 1700228104332, Thread 4002: XXXX 1700228104331, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228104334 XXXX 1700228104334, Thread 4002: XXXX 1700228104334, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228104432 XXXX 1700228104432, Thread 4002: XXXX 1700228104432, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228104434 XXXX 1700228104434, Thread 4002: XXXX 1700228104434, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228104534 XXXX 1700228104534, Thread 4002: XXXX 1700228104534, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228104536 XXXX 1700228104536, Thread 4002: XXXX 1700228104536, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228104638 XXXX 1700228104638, Thread 4002: XXXX 1700228104638, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228104640 XXXX 1700228104640, Thread 4002: XXXX 1700228104640, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228104738 XXXX 1700228104738, Thread 4002: XXXX 1700228104738, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228104740 XXXX 1700228104740, Thread 4002: XXXX 1700228104740, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228104839 XXXX 1700228104839, Thread 4002: XXXX 1700228104839, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228104841 XXXX 1700228104841, Thread 4002: XXXX 1700228104841, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228104940 XXXX 1700228104940, Thread 4002: XXXX 1700228104940, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228104942 XXXX 1700228104942, Thread 4002: XXXX 1700228104942, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228105041 XXXX 1700228105041, Thread 4002: XXXX 1700228105041, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228105043 XXXX 1700228105043, Thread 4002: XXXX 1700228105043, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228105141 XXXX 1700228105141, Thread 4002: XXXX 1700228105141, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228105145 XXXX 1700228105145, Thread 4002: XXXX 1700228105145, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228105241 XXXX 1700228105241, Thread 4002: XXXX 1700228105241, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228105242 XXXX 1700228105242, Thread 4002: XXXX 1700228105242, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228105344 XXXX 1700228105344, Thread 4002: XXXX 1700228105344, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228105346 XXXX 1700228105346, Thread 4002: XXXX 1700228105346, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228105447 XXXX 1700228105447, Thread 4002: XXXX 1700228105447, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228105449 XXXX 1700228105449, Thread 4002: XXXX 1700228105449, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228105547 XXXX 1700228105547, Thread 4002: XXXX 1700228105547, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228105549 XXXX 1700228105549, Thread 4002: XXXX 1700228105549, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228105648 XXXX 1700228105648, Thread 4002: XXXX 1700228105648, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228105649 XXXX 1700228105649, Thread 4002: XXXX 1700228105649, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228105749 XXXX 1700228105749, Thread 4002: XXXX 1700228105749, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228105751 XXXX 1700228105751, Thread 4002: XXXX 1700228105751, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228105849 XXXX 1700228105849, Thread 4002: XXXX 1700228105849, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228105850 XXXX 1700228105850, Thread 4002: XXXX 1700228105850, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228105950 XXXX 1700228105950, Thread 4002: XXXX 1700228105950, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228105977 XXXX 1700228105977, Thread 4002: XXXX 1700228105977, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228106050 XXXX 1700228106050, Thread 4002: XXXX 1700228106050, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228106051 XXXX 1700228106051, Thread 4002: XXXX 1700228106051, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228106152 XXXX 1700228106152, Thread 4002: XXXX 1700228106152, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228106154 XXXX 1700228106154, Thread 4002: XXXX 1700228106154, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228106255 XXXX 1700228106255, Thread 4002: XXXX 1700228106255, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228106257 XXXX 1700228106257, Thread 4002: XXXX 1700228106257, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228106355 XXXX 1700228106355, Thread 4002: XXXX 1700228106355, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228106357 XXXX 1700228106357, Thread 4002: XXXX 1700228106357, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228106456 XXXX 1700228106456, Thread 4002: XXXX 1700228106456, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228106457 XXXX 1700228106457, Thread 4002: XXXX 1700228106457, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228106557 XXXX 1700228106557, Thread 4002: XXXX 1700228106557, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228106560 XXXX 1700228106560, Thread 4002: XXXX 1700228106560, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228106658 XXXX 1700228106658, Thread 4002: XXXX 1700228106658, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228106660 XXXX 1700228106660, Thread 4002: XXXX 1700228106660, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228106759 XXXX 1700228106759, Thread 4002: XXXX 1700228106759, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228106761 XXXX 1700228106761, Thread 4002: XXXX 1700228106761, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228106861 XXXX 1700228106861, Thread 4002: XXXX 1700228106861, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228106863 XXXX 1700228106863, Thread 4002: XXXX 1700228106863, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228106961 XXXX 1700228106961, Thread 4002: XXXX 1700228106961, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228106963 XXXX 1700228106963, Thread 4002: XXXX 1700228106963, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228107062 XXXX 1700228107062, Thread 4002: XXXX 1700228107062, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228107064 XXXX 1700228107064, Thread 4002: XXXX 1700228107064, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228107162 XXXX 1700228107162, Thread 4002: XXXX 1700228107162, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228107164 XXXX 1700228107164, Thread 4002: XXXX 1700228107164, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228107263 XXXX 1700228107263, Thread 4002: XXXX 1700228107263, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228107265 XXXX 1700228107265, Thread 4002: XXXX 1700228107265, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228107364 XXXX 1700228107364, Thread 4002: XXXX 1700228107364, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228107367 XXXX 1700228107367, Thread 4002: XXXX 1700228107367, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228107466 XXXX 1700228107466, Thread 4002: XXXX 1700228107466, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228107468 XXXX 1700228107468, Thread 4002: XXXX 1700228107468, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228107566 XXXX 1700228107566, Thread 4002: XXXX 1700228107566, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228107569 XXXX 1700228107569, Thread 4002: XXXX 1700228107569, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228107667 XXXX 1700228107667, Thread 4002: XXXX 1700228107667, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228107669 XXXX 1700228107669, Thread 4002: XXXX 1700228107669, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228107767 XXXX 1700228107767, Thread 4002: XXXX 1700228107767, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228107769 XXXX 1700228107769, Thread 4002: XXXX 1700228107769, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228107871 XXXX 1700228107871, Thread 4002: XXXX 1700228107871, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228107872 XXXX 1700228107872, Thread 4002: XXXX 1700228107872, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228107975 XXXX 1700228107975, Thread 4002: XXXX 1700228107975, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228107977 XXXX 1700228107977, Thread 4002: XXXX 1700228107977, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228108078 XXXX 1700228108078, Thread 4002: XXXX 1700228108078, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228108080 XXXX 1700228108080, Thread 4002: XXXX 1700228108080, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228108180 XXXX 1700228108180, Thread 4002: XXXX 1700228108180, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228108181 XXXX 1700228108181, Thread 4002: XXXX 1700228108181, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228108281 XXXX 1700228108281, Thread 4002: XXXX 1700228108281, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228108283 XXXX 1700228108283, Thread 4002: XXXX 1700228108283, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228108382 XXXX 1700228108382, Thread 4002: XXXX 1700228108382, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228108384 XXXX 1700228108384, Thread 4002: XXXX 1700228108384, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228108483 XXXX 1700228108483, Thread 4002: XXXX 1700228108483, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228108485 XXXX 1700228108485, Thread 4002: XXXX 1700228108485, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228108583 XXXX 1700228108583, Thread 4002: XXXX 1700228108583, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228108584 XXXX 1700228108584, Thread 4002: XXXX 1700228108584, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228108685 XXXX 1700228108685, Thread 4002: XXXX 1700228108685, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228108687 XXXX 1700228108687, Thread 4002: XXXX 1700228108687, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228108788 XXXX 1700228108788, Thread 4002: XXXX 1700228108788, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228108790 XXXX 1700228108790, Thread 4002: XXXX 1700228108790, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228108889 XXXX 1700228108889, Thread 4002: XXXX 1700228108889, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228108891 XXXX 1700228108891, Thread 4002: XXXX 1700228108891, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228108989 XXXX 1700228108989, Thread 4002: XXXX 1700228108989, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228108991 XXXX 1700228108991, Thread 4002: XXXX 1700228108991, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228109089 XXXX 1700228109089, Thread 4002: XXXX 1700228109089, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228109091 XXXX 1700228109091, Thread 4002: XXXX 1700228109091, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228109189 XXXX 1700228109189, Thread 4002: XXXX 1700228109189, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228109191 XXXX 1700228109191, Thread 4002: XXXX 1700228109191, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228109289 XXXX 1700228109289, Thread 4002: XXXX 1700228109289, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228109291 XXXX 1700228109291, Thread 4002: XXXX 1700228109291, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228109391 XXXX 1700228109391, Thread 4002: XXXX 1700228109391, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228109392 XXXX 1700228109392, Thread 4002: XXXX 1700228109392, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228109492 XXXX 1700228109492, Thread 4002: XXXX 1700228109492, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228109493 XXXX 1700228109493, Thread 4002: XXXX 1700228109493, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228109592 XXXX 1700228109592, Thread 4002: XXXX 1700228109592, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228109594 XXXX 1700228109594, Thread 4002: XXXX 1700228109594, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228109693 XXXX 1700228109693, Thread 4002: XXXX 1700228109693, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228109695 XXXX 1700228109695, Thread 4002: XXXX 1700228109695, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228109793 XXXX 1700228109793, Thread 4002: XXXX 1700228109793, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228109795 XXXX 1700228109795, Thread 4002: XXXX 1700228109795, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228109893 XXXX 1700228109893, Thread 4002: XXXX 1700228109893, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228109895 XXXX 1700228109895, Thread 4002: XXXX 1700228109895, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228109993 XXXX 1700228109993, Thread 4002: XXXX 1700228109993, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228109995 XXXX 1700228109995, Thread 4002: XXXX 1700228109995, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228110094 XXXX 1700228110094, Thread 4002: XXXX 1700228110094, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228110096 XXXX 1700228110096, Thread 4002: XXXX 1700228110096, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228110195 XXXX 1700228110195, Thread 4002: XXXX 1700228110195, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228110198 XXXX 1700228110198, Thread 4002: XXXX 1700228110198, Exiting Thread 4002: Commands::runScriptBasic  
+
+4002 1700228110227 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:HaltTarget
+4002 1700228110227 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+4002 1700228110227 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 null
+4002 1700228110227 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+4002 1700228110227 XXXX 1700228110227, Thread 4002: XXXX 1700228110227, Entering Thread 4002: Commands::runScriptBasic, script name = Halt, timeOut = -1 ms  
+4002 1700228110229 XXXX 1700228110229, Thread 4002: XXXX 1700228110229, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228110229 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:HaltTarget
+4002 1700228110229 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+4002 1700228110229 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 true
+4002 1700228110229 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+4002 1700228110229 XXXX 1700228110229, Thread 4002: XXXX 1700228110229, Entering Thread 4002: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4002 1700228110230 XXXX 1700228110230, Thread 4002: XXXX 1700228110230, Exiting Thread 4002: Commands::runScriptBasic  
+
+4002 1700228110231 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:DebugReadTargetMemory
+4002 1700228110231 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+4002 1700228110231 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Emulation
+4002 1700228110231 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 fd0068
+4002 1700228110231 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 fd006b
+4002 1700228110231 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Length = 4
+4002 1700228110231 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+4002 1700228110231 XXXX 1700228110231, Thread 4002: XXXX 1700228110231, Entering Thread 4002: Commands::runScriptWithUpload, script name = ReadEmu  
+4002 1700228110231 XXXX 1700228110231, Thread 4002: XXXX 1700228110231, Entering Thread 4002: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x4 bytes long  
+4002 1700228110233 XXXX 1700228110233, Thread 4002: XXXX 1700228110233, Exiting Thread 4002: ToolCommUsb::readTransfer,  cr.status = 0x0  
+4002 1700228110233 XXXX 1700228110233, Thread 4002: XXXX 1700228110233, Exiting Thread 4002: Commands::runScriptWithUpload  
+4002 1700228110233 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:DebugReadTargetMemory
+4002 1700228110233 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+4002 1700228110233 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 true
+4002 1700228110233 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+4002 1700228110233 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:DebugReadTargetMemory
+4002 1700228110233 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+4002 1700228110233 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Emulation
+4002 1700228110233 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 fd0000
+4002 1700228110233 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 fd000b
+4002 1700228110233 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Length = 12
+4002 1700228110233 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+4002 1700228110233 XXXX 1700228110233, Thread 4002: XXXX 1700228110233, Entering Thread 4002: Commands::runScriptWithUpload, script name = ReadEmu  
+4002 1700228110233 XXXX 1700228110233, Thread 4002: XXXX 1700228110233, Entering Thread 4002: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0xc bytes long  
+4002 1700228110236 XXXX 1700228110236, Thread 4002: XXXX 1700228110236, Exiting Thread 4002: ToolCommUsb::readTransfer,  cr.status = 0x0  
+4002 1700228110236 XXXX 1700228110236, Thread 4002: XXXX 1700228110236, Exiting Thread 4002: Commands::runScriptWithUpload  
+4002 1700228110236 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:DebugReadTargetMemory
+4002 1700228110236 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+4002 1700228110236 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 true
+4002 1700228110236 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+4002 1700228110236 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:DebugWriteTargetMemory
+4002 1700228110236 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+4002 1700228110236 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Emulation
+4002 1700228110236 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 fd0000
+4002 1700228110236 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 fd006b
+4002 1700228110236 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Length = 108
+4002 1700228110236 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+4002 1700228110236 XXXX 1700228110236, Thread 4002: XXXX 1700228110236, Entering Thread 4002: Commands::runScriptWithUpload, script name = ReadEmu  
+4002 1700228110236 XXXX 1700228110236, Thread 4002: XXXX 1700228110236, Entering Thread 4002: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x6c bytes long  
+4002 1700228110238 XXXX 1700228110238, Thread 4002: XXXX 1700228110238, Exiting Thread 4002: ToolCommUsb::readTransfer,  cr.status = 0x0  
+4002 1700228110238 XXXX 1700228110238, Thread 4002: XXXX 1700228110238, Exiting Thread 4002: Commands::runScriptWithUpload  
+4002 1700228110238 XXXX 1700228110238, Thread 4002: XXXX 1700228110238, Entering Thread 4002: Commands::runScriptWithDownload, script name = WriteEmu  
+4002 1700228110241 XXXX 1700228110241, Thread 4002: XXXX 1700228110241, Exiting Thread 4002: Commands::runScriptWithDownload(WriteEmu)  
+4002 1700228110241 XXXX 1700228110241, Thread 4002: XXXX 1700228110241, Entering Thread 4002: Commands::runScriptWithDownload, script name = WriteEmu  
+4002 1700228110243 XXXX 1700228110243, Thread 4002: XXXX 1700228110243, Exiting Thread 4002: Commands::runScriptWithDownload(WriteEmu)  
+4002 1700228110243 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:DebugWriteTargetMemory
+4002 1700228110243 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+4002 1700228110243 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 true
+4002 1700228110243 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+4002 1700228110243 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:GetPC
+4002 1700228110243 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+4002 1700228110243 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 null
+4002 1700228110243 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+4002 1700228110243 XXXX 1700228110243, Thread 4002: XXXX 1700228110243, Entering Thread 4002: Commands::runScriptBasic, script name = GetPC, timeOut = -1 ms  
+4002 1700228110244 XXXX 1700228110244, Thread 4002: XXXX 1700228110244, Exiting Thread 4002: Commands::runScriptBasic  
+4002 1700228110244 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:GetPC
+4002 1700228110244 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+4002 1700228110244 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 b72
+4002 1700228110244 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+3832 1700228110245 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:IsTargetInDebugMode
+3832 1700228110245 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+3832 1700228110245 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 null
+3832 1700228110245 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+3832 1700228110245 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:IsTargetInDebugMode
+3832 1700228110245 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+3832 1700228110245 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 true
+3832 1700228110245 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+3832 1700228110245 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:GetPC
+3832 1700228110245 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+3832 1700228110245 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 null
+3832 1700228110245 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+3832 1700228110245 XXXX 1700228110245, Thread 3832: XXXX 1700228110245, Entering Thread 3832: Commands::runScriptBasic, script name = GetPC, timeOut = -1 ms  
+3832 1700228110246 XXXX 1700228110246, Thread 3832: XXXX 1700228110246, Exiting Thread 3832: Commands::runScriptBasic  
+3832 1700228110246 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:GetPC
+3832 1700228110246 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+3832 1700228110246 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 b72
+3832 1700228110246 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+3832 1700228110258 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:IsTargetInDebugMode
+3832 1700228110258 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+3832 1700228110258 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 null
+3832 1700228110258 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+3832 1700228110258 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:IsTargetInDebugMode
+3832 1700228110258 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+3832 1700228110258 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 true
+3832 1700228110258 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+3832 1700228110258 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:DebugReadTargetMemory
+3832 1700228110258 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+3832 1700228110258 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 FileRegs
+3832 1700228110258 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 0
+3832 1700228110258 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 1
+3832 1700228110258 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Length = 2
+3832 1700228110258 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+3832 1700228110258 XXXX 1700228110258, Thread 3832: XXXX 1700228110258, Entering Thread 3832: Commands::runScriptWithUpload, script name = ReadSFR  
+3832 1700228110258 XXXX 1700228110258, Thread 3832: XXXX 1700228110258, Entering Thread 3832: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+3832 1700228110260 XXXX 1700228110260, Thread 3832: XXXX 1700228110260, Exiting Thread 3832: ToolCommUsb::readTransfer,  cr.status = 0x0  
+3832 1700228110260 XXXX 1700228110260, Thread 3832: XXXX 1700228110260, Exiting Thread 3832: Commands::runScriptWithUpload  
+3832 1700228110260 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:DebugReadTargetMemory
+3832 1700228110260 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+3832 1700228110260 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 true
+3832 1700228110260 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+3832 1700228110261 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:DebugReadTargetMemory
+3832 1700228110261 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+3832 1700228110261 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 FileRegs
+3832 1700228110261 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 1c
+3832 1700228110261 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 1d
+3832 1700228110261 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Length = 2
+3832 1700228110261 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+3832 1700228110261 XXXX 1700228110261, Thread 3832: XXXX 1700228110261, Entering Thread 3832: Commands::runScriptWithUpload, script name = ReadSFR  
+3832 1700228110261 XXXX 1700228110261, Thread 3832: XXXX 1700228110261, Entering Thread 3832: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+3832 1700228110263 XXXX 1700228110263, Thread 3832: XXXX 1700228110263, Exiting Thread 3832: ToolCommUsb::readTransfer,  cr.status = 0x0  
+3832 1700228110263 XXXX 1700228110263, Thread 3832: XXXX 1700228110263, Exiting Thread 3832: Commands::runScriptWithUpload  
+3832 1700228110263 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:DebugReadTargetMemory
+3832 1700228110263 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+3832 1700228110263 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 true
+3832 1700228110263 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+3832 1700228110263 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:IsTargetInDebugMode
+3832 1700228110263 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+3832 1700228110263 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 null
+3832 1700228110263 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+3832 1700228110263 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:IsTargetInDebugMode
+3832 1700228110263 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+3832 1700228110263 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 true
+3832 1700228110263 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+3832 1700228110263 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:DebugReadTargetMemory
+3832 1700228110263 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+3832 1700228110263 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 FileRegs
+3832 1700228110263 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 1018
+3832 1700228110263 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 1019
+3832 1700228110263 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Length = 2
+3832 1700228110263 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+3832 1700228110263 XXXX 1700228110263, Thread 3832: XXXX 1700228110263, Entering Thread 3832: Commands::runScriptWithUpload, script name = ReadSFR  
+3832 1700228110263 XXXX 1700228110263, Thread 3832: XXXX 1700228110263, Entering Thread 3832: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+3832 1700228110265 XXXX 1700228110265, Thread 3832: XXXX 1700228110265, Exiting Thread 3832: ToolCommUsb::readTransfer,  cr.status = 0x0  
+3832 1700228110265 XXXX 1700228110265, Thread 3832: XXXX 1700228110265, Exiting Thread 3832: Commands::runScriptWithUpload  
+3832 1700228110265 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:DebugReadTargetMemory
+3832 1700228110265 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+3832 1700228110265 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 true
+3832 1700228110265 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+3832 1700228110265 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:IsTargetInDebugMode
+3832 1700228110265 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+3832 1700228110265 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 null
+3832 1700228110265 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+3832 1700228110265 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:IsTargetInDebugMode
+3832 1700228110265 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+3832 1700228110265 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 true
+3832 1700228110265 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+3832 1700228110265 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:DebugReadTargetMemory
+3832 1700228110265 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+3832 1700228110265 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 FileRegs
+3832 1700228110265 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 1008
+3832 1700228110265 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 1013
+3832 1700228110265 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Length = 12
+3832 1700228110265 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+3832 1700228110265 XXXX 1700228110265, Thread 3832: XXXX 1700228110265, Entering Thread 3832: Commands::runScriptWithUpload, script name = ReadSFR  
+3832 1700228110265 XXXX 1700228110265, Thread 3832: XXXX 1700228110265, Entering Thread 3832: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0xc bytes long  
+3832 1700228110266 XXXX 1700228110266, Thread 3832: XXXX 1700228110266, Exiting Thread 3832: ToolCommUsb::readTransfer,  cr.status = 0x0  
+3832 1700228110266 XXXX 1700228110266, Thread 3832: XXXX 1700228110266, Exiting Thread 3832: Commands::runScriptWithUpload  
+3832 1700228110266 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:DebugReadTargetMemory
+3832 1700228110266 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+3832 1700228110266 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 true
+3832 1700228110266 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+3832 1700228110267 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:DebugReadTargetMemory
+3832 1700228110267 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+3832 1700228110267 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 FileRegs
+3832 1700228110267 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 c
+3832 1700228110267 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 17
+3832 1700228110267 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Length = 12
+3832 1700228110267 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+3832 1700228110267 XXXX 1700228110267, Thread 3832: XXXX 1700228110267, Entering Thread 3832: Commands::runScriptWithUpload, script name = ReadSFR  
+3832 1700228110267 XXXX 1700228110267, Thread 3832: XXXX 1700228110267, Entering Thread 3832: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0xc bytes long  
+3832 1700228110268 XXXX 1700228110268, Thread 3832: XXXX 1700228110268, Exiting Thread 3832: ToolCommUsb::readTransfer,  cr.status = 0x0  
+3832 1700228110268 XXXX 1700228110268, Thread 3832: XXXX 1700228110268, Exiting Thread 3832: Commands::runScriptWithUpload  
+3832 1700228110269 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:DebugReadTargetMemory
+3832 1700228110269 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+3832 1700228110269 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 true
+3832 1700228110269 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+3832 1700228110269 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:DebugReadTargetMemory
+3832 1700228110269 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+3832 1700228110269 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 FileRegs
+3832 1700228110269 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 1014
+3832 1700228110269 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 1017
+3832 1700228110269 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Length = 4
+3832 1700228110269 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+3832 1700228110269 XXXX 1700228110269, Thread 3832: XXXX 1700228110269, Entering Thread 3832: Commands::runScriptWithUpload, script name = ReadSFR  
+3832 1700228110269 XXXX 1700228110269, Thread 3832: XXXX 1700228110269, Entering Thread 3832: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x4 bytes long  
+3832 1700228110271 XXXX 1700228110271, Thread 3832: XXXX 1700228110271, Exiting Thread 3832: ToolCommUsb::readTransfer,  cr.status = 0x0  
+3832 1700228110271 XXXX 1700228110271, Thread 3832: XXXX 1700228110271, Exiting Thread 3832: Commands::runScriptWithUpload  
+3832 1700228110271 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:DebugReadTargetMemory
+3832 1700228110271 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+3832 1700228110271 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 true
+3832 1700228110271 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+3832 1700228110271 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:DebugReadTargetMemory
+3832 1700228110271 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+3832 1700228110271 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 FileRegs
+3832 1700228110271 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 1c
+3832 1700228110271 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 1d
+3832 1700228110271 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Length = 2
+3832 1700228110271 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+3832 1700228110271 XXXX 1700228110271, Thread 3832: XXXX 1700228110271, Entering Thread 3832: Commands::runScriptWithUpload, script name = ReadSFR  
+3832 1700228110271 XXXX 1700228110271, Thread 3832: XXXX 1700228110271, Entering Thread 3832: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+3832 1700228110274 XXXX 1700228110274, Thread 3832: XXXX 1700228110274, Exiting Thread 3832: ToolCommUsb::readTransfer,  cr.status = 0x0  
+3832 1700228110274 XXXX 1700228110274, Thread 3832: XXXX 1700228110274, Exiting Thread 3832: Commands::runScriptWithUpload  
+3832 1700228110274 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:DebugReadTargetMemory
+3832 1700228110274 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+3832 1700228110274 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 true
+3832 1700228110274 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+3832 1700228110274 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:DebugReadTargetMemory
+3832 1700228110274 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+3832 1700228110274 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 FileRegs
+3832 1700228110274 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 1018
+3832 1700228110274 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 1019
+3832 1700228110274 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Length = 2
+3832 1700228110274 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+3832 1700228110274 XXXX 1700228110274, Thread 3832: XXXX 1700228110274, Entering Thread 3832: Commands::runScriptWithUpload, script name = ReadSFR  
+3832 1700228110274 XXXX 1700228110274, Thread 3832: XXXX 1700228110274, Entering Thread 3832: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+3832 1700228110276 XXXX 1700228110276, Thread 3832: XXXX 1700228110276, Exiting Thread 3832: ToolCommUsb::readTransfer,  cr.status = 0x0  
+3832 1700228110276 XXXX 1700228110276, Thread 3832: XXXX 1700228110276, Exiting Thread 3832: Commands::runScriptWithUpload  
+3832 1700228110276 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:DebugReadTargetMemory
+3832 1700228110276 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+3832 1700228110276 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 true
+3832 1700228110276 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+3832 1700228110287 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:IsTargetInDebugMode
+3832 1700228110287 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+3832 1700228110287 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 null
+3832 1700228110287 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+3832 1700228110287 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:IsTargetInDebugMode
+3832 1700228110287 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+3832 1700228110287 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 true
+3832 1700228110287 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+3832 1700228110287 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:DebugReadTargetMemory
+3832 1700228110287 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+3832 1700228110287 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 FileRegs
+3832 1700228110287 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 101e
+3832 1700228110287 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 101f
+3832 1700228110287 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Length = 2
+3832 1700228110287 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+3832 1700228110287 XXXX 1700228110287, Thread 3832: XXXX 1700228110287, Entering Thread 3832: Commands::runScriptWithUpload, script name = ReadSFR  
+3832 1700228110287 XXXX 1700228110287, Thread 3832: XXXX 1700228110287, Entering Thread 3832: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+3832 1700228110289 XXXX 1700228110289, Thread 3832: XXXX 1700228110289, Exiting Thread 3832: ToolCommUsb::readTransfer,  cr.status = 0x0  
+3832 1700228110289 XXXX 1700228110289, Thread 3832: XXXX 1700228110289, Exiting Thread 3832: Commands::runScriptWithUpload  
+3832 1700228110289 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:DebugReadTargetMemory
+3832 1700228110289 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+3832 1700228110289 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 true
+3832 1700228110289 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Pre:SetProgramExec
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Payload
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Test
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 800000
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Length = 6126
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Payload End
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Post:SetProgramExec
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Return Value
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 true
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Return End
+
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Pre:EstablishCommunincations
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Payload
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 com.microchip.mplab.mdbcore.ICD4Tool.ICD4Com@1453655
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Payload End
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Post:EstablishCommunincations
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Return Value
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 true
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Return End
+
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Pre:GetFirmwareInfo
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Payload
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 null
+4426 1700228111635 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Payload End
+4426 1700228111643 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Post:GetFirmwareInfo
+4426 1700228111643 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Return Value
+4426 1700228111643 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 FirmwareInfo: Values:
+4426 1700228111643 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 FirmwareInfo: boot = false, bootVer = 01.00.00, apVer = 02.00.63, fpgaVer = 01.00.14, scriptVer = 00.05.85, macAddress = 0495583524952554854485356485248, devID = a1020e00, devID1 = 2, devSN0 = ffffffff, devSN1 = ffffffff, serialNumber = JIT173610124, appCommitID = null, scriptCommitID = d33d758f73, PCB_ID = 2
+4426 1700228111643 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Return End
+4426 1700228111643 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.RI4Tool.ConnectionHandler.CheckForFWUpdates()
+4426 1700228111643 GEN4_CONNECT_DIAGNOSTICS:Created FirmwareUpdateHandler com.microchip.mplab.mdbcore.ICD4Tool.ICD4FirmwareUpdateHandler@50db3fa2
+4426 1700228111643 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.RI4Tool.FirmwareUpdateHandler.GetUpdateInfo()
+4426 1700228111643 GEN4_CONNECT_DIAGNOSTICS:Parsing file  for firmware updates
+4426 1700228111643 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.RI4Tool.FirmwareUpdateHandler.ri4ParseSelectedVersionsFromJamFile()
+4426 1700228111643 GEN4_CONNECT_DIAGNOSTICS:Jame file line = app.hex,020063
+4426 1700228111643 GEN4_CONNECT_DIAGNOSTICS:Jame file line = boot.hex,010000
+4426 1700228111643 GEN4_CONNECT_DIAGNOSTICS:Jame file line = fpga.hex,010014
+4426 1700228111643 GEN4_CONNECT_DIAGNOSTICS:Jame file line = scripts.xml,000585
+4426 1700228111643 GEN4_CONNECT_DIAGNOSTICS:Selected firmware version for Boot = 01.00.00
+4426 1700228111643 GEN4_CONNECT_DIAGNOSTICS:Selected firmware version for ap = 02.00.63
+4426 1700228111643 GEN4_CONNECT_DIAGNOSTICS:Selected firmware version for fpga = 01.00.14
+4426 1700228111643 GEN4_CONNECT_DIAGNOSTICS:EXITING: com.microchip.mplab.mdbcore.RI4Tool.FirmwareUpdateHandler.ri4ParseSelectedVersionsFromJamFile()
+4426 1700228111643 GEN4_CONNECT_DIAGNOSTICS:EXITING: com.microchip.mplab.mdbcore.RI4Tool.FirmwareUpdateHandler.GetUpdateInfo()
+4426 1700228111643 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.RI4Tool.FirmwareUpdateHandler.updateRI4ToolsFirmware(FirmwareInfo, UpdateMessage)
+4426 1700228111645 GEN4_CONNECT_DIAGNOSTICS:appNeedsUpdate returned false
+4426 1700228111645 GEN4_CONNECT_DIAGNOSTICS:EXITING: com.microchip.mplab.mdbcore.RI4Tool.FirmwareUpdateHandler.updateRI4ToolsFirmware(FirmwareInfo, UpdateMessage)
+4426 1700228111645 GEN4_CONNECT_DIAGNOSTICS:EXITING: com.microchip.mplab.mdbcore.RI4Tool.ConnectionHandler.CheckForFWUpdates()
+
+4426 1700228111645 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Pre:SetPowerInfo
+4426 1700228111645 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Payload
+4426 1700228111645 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 PowerInfo: Values:
+4426 1700228111645 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 PowerInfo: shotDownSystem = false, isToolPower = false, voltage = 3.250000, useVppFirst = false, useLowVoltageProgramming = true, useMaintainActivePower = false
+4426 1700228111645 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Payload End
+4426 1700228111645 XXXX 1700228111645, Thread 4426: XXXX 1700228111645, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0x39, ...  
+4426 1700228111647 XXXX 1700228111647, Thread 4426: XXXX 1700228111647, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228111647 XXXX 1700228111647, Thread 4426: XXXX 1700228111647, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0x46, ...  
+4426 1700228111648 XXXX 1700228111648, Thread 4426: XXXX 1700228111648, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228111648 XXXX 1700228111648, Thread 4426: XXXX 1700228111648, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0x44, ...  
+4426 1700228111669 XXXX 1700228111669, Thread 4426: XXXX 1700228111669, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228111669 XXXX 1700228111669, Thread 4426: XXXX 1700228111669, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0xef, ...  
+4426 1700228111680 XXXX 1700228111680, Thread 4426: XXXX 1700228111680, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228111680 XXXX 1700228111680, Thread 4426: XXXX 1700228111680, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0x40, ...  
+4426 1700228112175 XXXX 1700228112175, Thread 4426: XXXX 1700228112175, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112175 XXXX 1700228112175, Thread 4426: XXXX 1700228112175, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0x47, ...  
+4426 1700228112181 XXXX 1700228112181, Thread 4426: XXXX 1700228112181, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112181 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Post:SetPowerInfo
+4426 1700228112181 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Return Value
+4426 1700228112181 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 none
+4426 1700228112181 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Return End
+
+4426 1700228112181 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Pre:SetLEDBrightness
+4426 1700228112181 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Payload
+4426 1700228112181 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 5
+4426 1700228112181 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Payload End
+4426 1700228112181 XXXX 1700228112181, Thread 4426: XXXX 1700228112181, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0xcf, ...  
+4426 1700228112183 XXXX 1700228112183, Thread 4426: XXXX 1700228112183, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112183 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Post:SetLEDBrightness
+4426 1700228112183 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Return Value
+4426 1700228112183 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 none
+4426 1700228112183 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Return End
+
+4426 1700228112183 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Pre:SetToolInfo
+4426 1700228112183 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Payload
+4426 1700228112183 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 ToolInfo: Values:
+4426 1700228112183 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 ToolInfo: speedLevel = 1, PGCResistance = 4700, PGDResistance = 4700, PGCPullDir = PullDown, PGDPullDir = PullDown, ICSPSelected = Wire2
+4426 1700228112183 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Payload End
+4426 1700228112183 XXXX 1700228112183, Thread 4426: XXXX 1700228112183, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0x27, ...  
+4426 1700228112183 XXXX 1700228112183, Thread 4426: XXXX 1700228112183, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112183 XXXX 1700228112183, Thread 4426: XXXX 1700228112183, Entering Thread 4426: Commands::runScriptBasic, script name = SetSpeedFromDevice, timeOut = -1 ms  
+4426 1700228112184 XXXX 1700228112184, Thread 4426: XXXX 1700228112184, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112184 XXXX 1700228112184, Thread 4426: XXXX 1700228112184, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0xed, ...  
+4426 1700228112185 XXXX 1700228112185, Thread 4426: XXXX 1700228112185, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112185 XXXX 1700228112185, Thread 4426: XXXX 1700228112185, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0xec, ...  
+4426 1700228112186 XXXX 1700228112186, Thread 4426: XXXX 1700228112186, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112186 XXXX 1700228112186, Thread 4426: XXXX 1700228112186, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0xd4, ...  
+4426 1700228112187 XXXX 1700228112187, Thread 4426: XXXX 1700228112187, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112187 XXXX 1700228112187, Thread 4426: XXXX 1700228112187, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0xcd, ...  
+4426 1700228112188 XXXX 1700228112188, Thread 4426: XXXX 1700228112188, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112188 XXXX 1700228112188, Thread 4426: XXXX 1700228112188, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0xce, ...  
+4426 1700228112190 XXXX 1700228112190, Thread 4426: XXXX 1700228112190, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112190 XXXX 1700228112190, Thread 4426: XXXX 1700228112190, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0xcd, ...  
+4426 1700228112190 XXXX 1700228112190, Thread 4426: XXXX 1700228112190, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112190 XXXX 1700228112190, Thread 4426: XXXX 1700228112190, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0xce, ...  
+4426 1700228112191 XXXX 1700228112191, Thread 4426: XXXX 1700228112191, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112191 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Post:SetToolInfo
+4426 1700228112191 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Return Value
+4426 1700228112191 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 none
+4426 1700228112191 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Return End
+
+4426 1700228112192 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Pre:GetTargetIDInfo
+4426 1700228112192 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Payload
+4426 1700228112192 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 null
+4426 1700228112192 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Payload End
+4426 1700228112193 XXXX 1700228112193, Thread 4426: XXXX 1700228112193, Entering Thread 4426: Commands::runScriptBasic, script name = SetSpeedFromDevice, timeOut = -1 ms  
+4426 1700228112194 XXXX 1700228112194, Thread 4426: XXXX 1700228112194, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112194 XXXX 1700228112194, Thread 4426: XXXX 1700228112194, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0xed, ...  
+4426 1700228112195 XXXX 1700228112195, Thread 4426: XXXX 1700228112195, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112195 XXXX 1700228112195, Thread 4426: XXXX 1700228112195, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0xec, ...  
+4426 1700228112196 XXXX 1700228112196, Thread 4426: XXXX 1700228112196, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112196 XXXX 1700228112196, Thread 4426: XXXX 1700228112196, Entering Thread 4426: Commands::runScriptBasic, script name = EnterTMOD_LV, timeOut = -1 ms  
+4426 1700228112224 XXXX 1700228112224, Thread 4426: XXXX 1700228112224, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112224 XXXX 1700228112224, Thread 4426: XXXX 1700228112224, Entering Thread 4426: Commands::runScriptBasic, script name = GetDeviceID, timeOut = -1 ms  
+4426 1700228112225 XXXX 1700228112225, Thread 4426: XXXX 1700228112225, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112225 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Post:GetTargetIDInfo
+4426 1700228112225 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Return Value
+4426 1700228112225 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 TargetIDInfo: Values:
+4426 1700228112225 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 TargetIDInfo: DeviceID = 1bcb4003
+4426 1700228112225 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Return End
+
+4426 1700228112229 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Pre:SendOperation
+4426 1700228112229 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Payload
+4426 1700228112229 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 OperationInfo: Values:
+4426 1700228112229 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 OperationInfo: Type = erase, Mask = 00000000, Erase = false, Production Mode = true
+4426 1700228112229 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 TransferInfo: Start = 0, End = 557eb, Buffer Length = 0, Type = Pgm, Mask = 00000000
+4426 1700228112229 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 TransferInfo: Start = 557ec, End = 557ff, Buffer Length = 0, Type = Cfg, Mask = 00000000
+4426 1700228112229 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 TransferInfo: Start = 800ff8, End = 800fff, Buffer Length = 0, Type = UserID, Mask = 00000000
+4426 1700228112229 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Payload End
+4426 1700228112229 XXXX 1700228112229, Thread 4426: XXXX 1700228112229, Entering Thread 4426: Commands::runScriptBasic, script name = EraseChip, timeOut = 30000 ms  
+4426 1700228112481 XXXX 1700228112481, Thread 4426: XXXX 1700228112481, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112481 XXXX 1700228112481, Thread 4426: XXXX 1700228112481, Entering Thread 4426: Commands::runScriptBasic, script name = EraseProgmemRange, timeOut = -1 ms  
+4426 1700228112508 XXXX 1700228112508, Thread 4426: XXXX 1700228112508, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112508 XXXX 1700228112508, Thread 4426: XXXX 1700228112508, Entering Thread 4426: Commands::runScriptWithDownload, script name = WriteConfigmem  
+4426 1700228112514 XXXX 1700228112514, Thread 4426: XXXX 1700228112514, Exiting Thread 4426: Commands::runScriptWithDownload(WriteConfigmem)  
+4426 1700228112514 XXXX 1700228112514, Thread 4426: XXXX 1700228112514, Entering Thread 4426: Commands::runScriptBasic, script name = ExitTMOD, timeOut = -1 ms  
+4426 1700228112678 XXXX 1700228112678, Thread 4426: XXXX 1700228112678, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112678 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Post:SendOperation
+4426 1700228112678 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Return Value
+4426 1700228112678 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 None
+4426 1700228112678 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Return End
+
+4426 1700228112680 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Pre:SendOperation
+4426 1700228112680 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Payload
+4426 1700228112680 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 OperationInfo: Values:
+4426 1700228112680 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 OperationInfo: Type = read, Mask = 00000000, Erase = false, Production Mode = true
+4426 1700228112680 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 TransferInfo: Start = 55400, End = 557ff, Buffer Length = 2048, Type = Pgm, Mask = 00000001
+4426 1700228112680 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Payload End
+4426 1700228112680 XXXX 1700228112680, Thread 4426: XXXX 1700228112680, Entering Thread 4426: Commands::runScriptBasic, script name = SetSpeedFromDevice, timeOut = -1 ms  
+4426 1700228112681 XXXX 1700228112681, Thread 4426: XXXX 1700228112681, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112681 XXXX 1700228112681, Thread 4426: XXXX 1700228112681, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0xed, ...  
+4426 1700228112682 XXXX 1700228112682, Thread 4426: XXXX 1700228112682, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112682 XXXX 1700228112682, Thread 4426: XXXX 1700228112682, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0xec, ...  
+4426 1700228112683 XXXX 1700228112683, Thread 4426: XXXX 1700228112683, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112683 XXXX 1700228112683, Thread 4426: XXXX 1700228112683, Entering Thread 4426: Commands::runScriptBasic, script name = EnterTMOD_LV, timeOut = -1 ms  
+4426 1700228112711 XXXX 1700228112711, Thread 4426: XXXX 1700228112711, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228112711 XXXX 1700228112711, Thread 4426: XXXX 1700228112711, Entering Thread 4426: Commands::runScriptWithUpload, script name = ReadProgmem  
+4426 1700228112711 XXXX 1700228112711, Thread 4426: XXXX 1700228112711, Entering Thread 4426: ToolCommUsb::readTransfer, sideData is 0xb1 bytes long, transferDataLength is 0x600 bytes long  
+4426 1700228112962 XXXX 1700228112962, Thread 4426: XXXX 1700228112962, Exiting Thread 4426: ToolCommUsb::readTransfer,  cr.status = 0x0  
+4426 1700228112962 XXXX 1700228112962, Thread 4426: XXXX 1700228112962, Exiting Thread 4426: Commands::runScriptWithUpload  
+4426 1700228112962 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Post:SendOperation
+4426 1700228112962 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Return Value
+4426 1700228112962 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 None
+4426 1700228112962 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Return End
+
+4426 1700228112962 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Pre:SendOperation
+4426 1700228112962 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Payload
+4426 1700228112962 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 OperationInfo: Values:
+4426 1700228112962 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 OperationInfo: Type = write, Mask = 00000000, Erase = false, Production Mode = true
+4426 1700228112962 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 TransferInfo: Start = 0, End = 1bff, Buffer Length = 14336, Type = Pgm, Mask = 00000000
+4426 1700228112962 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 TransferInfo: Start = 55400, End = 557ff, Buffer Length = 2048, Type = Pgm, Mask = 00000001
+4426 1700228112962 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Payload End
+4426 1700228112962 XXXX 1700228112962, Thread 4426: XXXX 1700228112962, Entering Thread 4426: Commands::runScriptWithUpload, script name = ReadConfigmem  
+4426 1700228112962 XXXX 1700228112962, Thread 4426: XXXX 1700228112962, Entering Thread 4426: ToolCommUsb::readTransfer, sideData is 0x46 bytes long, transferDataLength is 0x8 bytes long  
+4426 1700228112968 XXXX 1700228112968, Thread 4426: XXXX 1700228112968, Exiting Thread 4426: ToolCommUsb::readTransfer,  cr.status = 0x0  
+4426 1700228112968 XXXX 1700228112968, Thread 4426: XXXX 1700228112968, Exiting Thread 4426: Commands::runScriptWithUpload  
+4426 1700228112968 XXXX 1700228112968, Thread 4426: XXXX 1700228112968, Entering Thread 4426: Commands::runScriptBasic, script name = EraseTestmemRange, timeOut = 30000 ms  
+4426 1700228113071 XXXX 1700228113071, Thread 4426: XXXX 1700228113071, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228113071 XXXX 1700228113071, Thread 4426: XXXX 1700228113071, Entering Thread 4426: Commands::runScriptWithDownload, script name = WriteProgmem  
+4426 1700228114344 XXXX 1700228114344, Thread 4426: XXXX 1700228114344, Exiting Thread 4426: Commands::runScriptWithDownload(WriteProgmem)  
+4426 1700228114344 XXXX 1700228114344, Thread 4426: XXXX 1700228114344, Entering Thread 4426: Commands::runScriptWithUpload, script name = ReadProgmem  
+4426 1700228114344 XXXX 1700228114344, Thread 4426: XXXX 1700228114344, Entering Thread 4426: ToolCommUsb::readTransfer, sideData is 0xb1 bytes long, transferDataLength is 0x1800 bytes long  
+4426 1700228115340 XXXX 1700228115340, Thread 4426: XXXX 1700228115340, Exiting Thread 4426: ToolCommUsb::readTransfer,  cr.status = 0x0  
+4426 1700228115340 XXXX 1700228115340, Thread 4426: XXXX 1700228115340, Exiting Thread 4426: Commands::runScriptWithUpload  
+4426 1700228115340 XXXX 1700228115340, Thread 4426: XXXX 1700228115340, Entering Thread 4426: Commands::runScriptWithDownload, script name = WriteConfigmem  
+4426 1700228115344 XXXX 1700228115344, Thread 4426: XXXX 1700228115344, Exiting Thread 4426: Commands::runScriptWithDownload(WriteConfigmem)  
+4426 1700228115344 XXXX 1700228115344, Thread 4426: XXXX 1700228115344, Entering Thread 4426: Commands::runScriptWithUpload, script name = ReadConfigmem  
+4426 1700228115344 XXXX 1700228115344, Thread 4426: XXXX 1700228115344, Entering Thread 4426: ToolCommUsb::readTransfer, sideData is 0x46 bytes long, transferDataLength is 0x8 bytes long  
+4426 1700228115348 XXXX 1700228115348, Thread 4426: XXXX 1700228115348, Exiting Thread 4426: ToolCommUsb::readTransfer,  cr.status = 0x0  
+4426 1700228115348 XXXX 1700228115348, Thread 4426: XXXX 1700228115348, Exiting Thread 4426: Commands::runScriptWithUpload  
+4426 1700228115348 XXXX 1700228115348, Thread 4426: XXXX 1700228115348, Entering Thread 4426: Commands::runScriptBasic, script name = ExitTMOD, timeOut = -1 ms  
+4426 1700228115513 XXXX 1700228115513, Thread 4426: XXXX 1700228115513, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228115513 XXXX 1700228115513, Thread 4426: XXXX 1700228115513, Entering Thread 4426: Commands::runScriptBasic, script name = SetSpeedFromDevicePE, timeOut = -1 ms  
+4426 1700228115514 XXXX 1700228115514, Thread 4426: XXXX 1700228115514, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228115514 XXXX 1700228115514, Thread 4426: XXXX 1700228115514, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0xed, ...  
+4426 1700228115514 XXXX 1700228115514, Thread 4426: XXXX 1700228115514, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228115514 XXXX 1700228115514, Thread 4426: XXXX 1700228115514, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0xec, ...  
+4426 1700228115515 XXXX 1700228115515, Thread 4426: XXXX 1700228115515, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228115515 XXXX 1700228115515, Thread 4426: XXXX 1700228115515, Entering Thread 4426: Commands::runScriptBasic, script name = EnterTMOD_PE, timeOut = -1 ms  
+4426 1700228115543 XXXX 1700228115543, Thread 4426: XXXX 1700228115543, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228115543 XXXX 1700228115543, Thread 4426: XXXX 1700228115543, Entering Thread 4426: Commands::runScriptBasic, script name = TestPEConnect, timeOut = 30000 ms  
+4426 1700228115545 XXXX 1700228115545, Thread 4426: XXXX 1700228115545, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228115545 XXXX 1700228115545, Thread 4426: XXXX 1700228115545, Entering Thread 4426: Commands::runScriptWithDownload, script name = WriteProgmemPE  
+4426 1700228116291 XXXX 1700228116291, Thread 4426: XXXX 1700228116291, Exiting Thread 4426: Commands::runScriptWithDownload(WriteProgmemPE)  
+4426 1700228116291 XXXX 1700228116291, Thread 4426: XXXX 1700228116291, Entering Thread 4426: Commands::runScriptBasic, script name = CalcCRC_PE, timeOut = -1 ms  
+4426 1700228116380 XXXX 1700228116380, Thread 4426: XXXX 1700228116380, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228116381 XXXX 1700228116381, Thread 4426: XXXX 1700228116381, Entering Thread 4426: Commands::runScriptBasic, script name = ExitTMOD, timeOut = -1 ms  
+4426 1700228116545 XXXX 1700228116545, Thread 4426: XXXX 1700228116545, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228116545 XXXX 1700228116545, Thread 4426: XXXX 1700228116545, Entering Thread 4426: Commands::runScriptBasic, script name = SetSpeedFromDevice, timeOut = -1 ms  
+4426 1700228116547 XXXX 1700228116547, Thread 4426: XXXX 1700228116547, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228116547 XXXX 1700228116547, Thread 4426: XXXX 1700228116547, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0xed, ...  
+4426 1700228116548 XXXX 1700228116548, Thread 4426: XXXX 1700228116548, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228116548 XXXX 1700228116548, Thread 4426: XXXX 1700228116548, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0xec, ...  
+4426 1700228116549 XXXX 1700228116549, Thread 4426: XXXX 1700228116549, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228116549 XXXX 1700228116549, Thread 4426: XXXX 1700228116549, Entering Thread 4426: Commands::runScriptBasic, script name = EnterTMOD_LV, timeOut = -1 ms  
+4426 1700228116576 XXXX 1700228116576, Thread 4426: XXXX 1700228116576, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228116576 XXXX 1700228116576, Thread 4426: XXXX 1700228116576, Entering Thread 4426: Commands::runScriptWithDownload, script name = WriteProgmem  
+4426 1700228116897 XXXX 1700228116897, Thread 4426: XXXX 1700228116897, Exiting Thread 4426: Commands::runScriptWithDownload(WriteProgmem)  
+4426 1700228116897 XXXX 1700228116897, Thread 4426: XXXX 1700228116897, Entering Thread 4426: Commands::runScriptWithUpload, script name = ReadProgmem  
+4426 1700228116897 XXXX 1700228116897, Thread 4426: XXXX 1700228116897, Entering Thread 4426: ToolCommUsb::readTransfer, sideData is 0xb1 bytes long, transferDataLength is 0x600 bytes long  
+4426 1700228117148 XXXX 1700228117148, Thread 4426: XXXX 1700228117148, Exiting Thread 4426: ToolCommUsb::readTransfer,  cr.status = 0x0  
+4426 1700228117148 XXXX 1700228117148, Thread 4426: XXXX 1700228117148, Exiting Thread 4426: Commands::runScriptWithUpload  
+4426 1700228117148 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Post:SendOperation
+4426 1700228117148 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Return Value
+4426 1700228117148 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 None
+4426 1700228117148 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Return End
+
+4426 1700228117148 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Pre:endOfOperations
+4426 1700228117148 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Payload
+4426 1700228117148 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 null
+4426 1700228117148 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Payload End
+4426 1700228117148 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Post:endOfOperations
+4426 1700228117148 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Return Value
+4426 1700228117148 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 None
+4426 1700228117148 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Return End
+
+4426 1700228117149 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Pre:SendOperation
+4426 1700228117149 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Payload
+4426 1700228117149 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 OperationInfo: Values:
+4426 1700228117149 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 OperationInfo: Type = releasefromreset, Mask = 00000000, Erase = false, Production Mode = true
+4426 1700228117149 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Payload End
+4426 1700228117149 XXXX 1700228117149, Thread 4426: XXXX 1700228117149, Entering Thread 4426: Commands::runScriptBasic, script name = ExitTMOD, timeOut = -1 ms  
+4426 1700228117314 XXXX 1700228117314, Thread 4426: XXXX 1700228117314, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228117314 XXXX 1700228117314, Thread 4426: XXXX 1700228117314, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0x42, ...  
+4426 1700228117478 XXXX 1700228117478, Thread 4426: XXXX 1700228117478, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228117478 XXXX 1700228117478, Thread 4426: XXXX 1700228117478, Entering Thread 4426: Commands::runScriptBasic with script contents. contents[0] = 0xef, ...  
+4426 1700228117489 XXXX 1700228117489, Thread 4426: XXXX 1700228117489, Exiting Thread 4426: Commands::runScriptBasic  
+4426 1700228117489 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Post:SendOperation
+4426 1700228117489 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Return Value
+4426 1700228117489 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 None
+4426 1700228117489 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512GM706 Return End
+
+3866 1700228117490 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:IsTargetInDebugMode
+3866 1700228117490 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+3866 1700228117490 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 null
+3866 1700228117490 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+3866 1700228117490 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Post:IsTargetInDebugMode
+3866 1700228117490 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return Value
+3866 1700228117490 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 true
+3866 1700228117490 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Return End
+
+3866 1700228117490 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:DebugReadTargetMemory
+3866 1700228117490 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+3866 1700228117490 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 FileRegs
+3866 1700228117490 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 101e
+3866 1700228117490 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 101f
+3866 1700228117490 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Length = 2
+3866 1700228117490 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+3866 1700228117490 XXXX 1700228117490, Thread 3866: XXXX 1700228117490, Entering Thread 3866: Commands::runScriptWithUpload, script name = ReadSFR  
+3866 1700228117490 XXXX 1700228117490, Thread 3866: XXXX 1700228117490, Entering Thread 3866: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+43 1700228505063 GEN4_CONNECT_DIAGNOSTICS:Calling Update on plug and play observer com.microchip.mplab.mdbcore.RI4Tool.RI4ToolBase$RI4PlugNPlayObserver@5d075064
+43 1700228505063 GEN4_CONNECT_DIAGNOSTICS:Entering plug and play Update(). Attached PID = 9015
+43 1700228505064 GEN4_CONNECT_DIAGNOSTICS:Entering MPLABCommEvent handler
+43 1700228505064 GEN4_CONNECT_DIAGNOSTICS:MPLABCommEvent.pid = 9015
+43 1700228505064 GEN4_CONNECT_DIAGNOSTICS:eventType = MPLABCOMM_TOOL_UNPLUGGED
+43 1700228505068 GEN4_CONNECT_DIAGNOSTICS:Exiting plug and play Update()
+4458 1700228515071 GEN4_CONNECT_DIAGNOSTICS:MPLABCommTool is null
+4442 1700228533726 XXXX 1700228533726, Thread 4442: ToolCommUsb::read, com.Received returned -1 
+4442 1700228533727 XXXX 1700228533727, Thread 4442: ToolCommUsb::DataReader::run, fatal RI4ControllerException: {null} 
+3866 1700228533728 XXXX 1700228533728, Thread 3866: com.Send returned false 
+
+4458 1700228533729 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Pre:GetFirmwareInfo
+4458 1700228533729 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Payload
+4458 1700228533729 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 null
+4458 1700228533729 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512GM706 Payload End
